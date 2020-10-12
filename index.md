@@ -20,7 +20,7 @@ Please email (<tess-support@googlegroups.com>) us to request an invite to the Sl
 
 elixir-tess.slack.com
 ## Mailing List
-Subscribe: [elixir-tess@listserv.manchester.ac.uk](mailto:elixir-tess@listserv.manchester.ac.uk?subject=subscribe) 
+Subscribe: [listserv@listserv.manchester.ac.uk](mailto:listserv@listserv.manchester.ac.uk?body=subscribe%20elixir-tess-club) 
 
 ## Feature Requests / Suggestions
 
