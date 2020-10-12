@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # About this site
 
 # About TeSS
