@@ -6,7 +6,9 @@
 Email: <tess-support@googlegroups.com>
 
 ## Weekly Meeting
-**Meeting Link**: ZOOM LINK
+**When**: TBD
+
+**Meeting Link**: <https://zoom.us/j/97552771675>
 
 **Meeting Minutes**
 <https://bit.ly/3lkqZ7o>
@@ -37,20 +39,15 @@ Subscribe: [elixir-tess@listserv.manchester.ac.uk](mailto:elixir-tess@listserv.m
 ### Technical Roadmap
 <https://github.com/ElixirTeSS/roadmap/projects/1>
 
-
 # Documentation
-### Strategic Plan
-<https://docs.google.com/document/d/1iFlqp-NDYNVdH-RHKiWm1bz59YibO2SEB9TCbS_yJg8>
+### Strategic Plan <https://docs.google.com/document/d/1iFlqp-NDYNVdH-RHKiWm1bz59YibO2SEB9TCbS_yJg8>
 
-### Meeting Minutes
-<https://docs.google.com/document/d/1GF3sd0Sx6ifFKluwxBmzpBy1iqx94FXoj4Td0ykq03Y>
+### Meeting Minutes <https://docs.google.com/document/d/1GF3sd0Sx6ifFKluwxBmzpBy1iqx94FXoj4Td0ykq03Y>
 
-### Current GitBook Wiki
-<https://app.gitbook.com/@uomresearchit/s/training-portal-developer-documentation>
-<https://app.gitbook.com/@uomresearchit/s/internal>
+### Current GitBook Wiki <https://app.gitbook.com/@uomresearchit/s/training-portal-developer-documentation>
+### GitBook Internal Documentation <https://app.gitbook.com/@uomresearchit/s/internal>
 
-### TeSS Google Support Group
-<https://groups.google.com/g/tess-support>
+### TeSS Google Support Group<https://groups.google.com/g/tess-support>
 
 ### Training Platform Task 3
 <https://docs.google.com/document/d/1tM-Pj4-fACwaiPRpIf8_2ZjPb17z01L-7UYy5_mY0ZA>
