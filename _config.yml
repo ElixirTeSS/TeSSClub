@@ -2,12 +2,12 @@ title: TeSS, ELIXIR's training platform
 email: tess-support@googlegroups.com
 description: >- # this means to ignore newlines until "baseurl:"
   Project pages for developing and running the TeSS, ELIXIR's training platform.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/about" # the subpath of your site, e.g. /blog
+url: "https://elixirtess.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ElixirTeSS
 
 # Build settings
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
