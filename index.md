@@ -57,11 +57,11 @@ Subscribe: [listserv@listserv.manchester.ac.uk](mailto:listserv@listserv.manches
 
 ## ELIXIR Europe / Nodes
 ### ELIXIR Europe <https://elixir-europe.org>
-### ELIXIER UK <https://elixiruknode.org>
+### ELIXIR UK <https://elixiruknode.org>
 ### ELIXIR Estonia <https://elixir.ut.ee>
 
 # Funding
-European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html);
+European Commission, Horizon 2020 Research Infrastructures programme (ELIXIR-EXCELERATE, [grant agreement number 676559](https://cordis.europa.eu/project/rcn/198519_en.html));
 
 ELIXIR Implementation Study (Registry Integration from a User Perspective);
 
