@@ -1,4 +1,5 @@
 # About this site
+This website this for the running of [TeSS](https://tess.elixir-europe.org/), ELIXIR's training platform. Including development documentation, resources and meetings.
 
 # About TeSS
 One of the goals of ELIXIR (Europe's distributed infrastructure for life-science data) is to train research scientists to better use available computational infrastructures to address critical research questions. This requires access both to face-to-face training opportunities and to disparate training materials and resources, currently dispersed across Europe.
