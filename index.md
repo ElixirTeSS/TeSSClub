@@ -5,6 +5,9 @@ One of the goals of ELIXIR (Europe's distributed infrastructure for life-science
 
 TeSS is ELIXIR's training platform, providing a one-stop shop for trainersand trainees to discover online information and content, including training materials, events and interactive tutorials. For ELIXIR Nodes, TeSS provides opportunities to promote training events and news, and to contribute to a growing catalogue of materials; for trainers, the portal offers an environment for sharing materials and event information; for trainees, it offers a convenient gateway via which to identify relevant training events and resources, and to perform specific, guided analysis tasks via customised training workflows
 
+# Code of conduct
+This project has a [Code of Conduct](code-of-conduct.md) to ensure interactions are friendly, respectful and inclusive. You can contact <tess-support@googlegroups.com> if you have any concerns or questions.
+
 # Contact Us
 Email: <tess-support@googlegroups.com>
 
