@@ -27,6 +27,7 @@ elixir-tess.slack.com
 [tess@eilxir-europe.org](https://lists.elixir-europe.org/mailman/listinfo/tess_elixir-europe.org)
 
 ## Feature Requests / Suggestions
+Please bring any feature requests along to the weekly meeting for discussion.
 
 # Project Resources
 ### Live Site <https://tess.elixir-europe.org>
@@ -44,7 +45,7 @@ elixir-tess.slack.com
 ### Meeting Minutes <https://docs.google.com/document/d/1GF3sd0Sx6ifFKluwxBmzpBy1iqx94FXoj4Td0ykq03Y>
 ### Current GitBook Wiki <https://app.gitbook.com/@uomresearchit/s/training-portal-developer-documentation>
 ### GitBook Internal Documentation <https://app.gitbook.com/@uomresearchit/s/internal>
-### TeSS Google Support Group<https://groups.google.com/g/tess-support>
+### TeSS Google Support Group <https://groups.google.com/g/tess-support>
 ### Training Platform Task 3 <https://docs.google.com/document/d/1i_cJVMGvLzTSmBPFq79BlyVerUs4aTvi_ZIcCgbxd7c>
 ### TeSS Strategy Meeting Minutes <https://docs.google.com/document/d/1YrgiydTIVCTArpx_9N_t57Kv-z4_t9gDZk7inKq9FkI>
 ### TeSS Scrapper Status <https://docs.google.com/spreadsheets/d186-kwQx1vcF901vtLgQeSOr9hVbaTQmhivQ6fT3gEHI>
