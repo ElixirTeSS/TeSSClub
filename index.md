@@ -20,11 +20,11 @@ Email: <tess-support@googlegroups.com>
 **Meeting Minutes** <https://bit.ly/3lkqZ7o>
 
 ## Slack
-Please email (<tess-support@googlegroups.com>) us to request an invite to the Slack Workspace.
+Please email <tess-support@googlegroups.com> to request an invite to the Slack Workspace.
 
 elixir-tess.slack.com
 ## Mailing List
-Subscribe: [listserv@listserv.manchester.ac.uk](mailto:listserv@listserv.manchester.ac.uk?body=subscribe%20elixir-tess-club) 
+[tess@eilxir-europe.org](https://lists.elixir-europe.org/mailman/listinfo/tess_elixir-europe.org)
 
 ## Feature Requests / Suggestions
 
