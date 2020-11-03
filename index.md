@@ -13,7 +13,7 @@ This project has a [Code of Conduct](code-of-conduct.md) to ensure interactions 
 Email: <tess-support@googlegroups.com>
 
 ## Weekly Meeting
-**When**: TBD
+**When**: Fortnightly at 9:00 GMT / 10:00 CET Friday
 
 **Meeting Link** <https://zoom.us/j/97552771675>
 
