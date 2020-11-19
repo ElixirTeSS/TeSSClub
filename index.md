@@ -23,7 +23,7 @@ Email: <tess-support@googlegroups.com>
 Request a Slack invite <http://bit.ly/3mQgFoK>
 
 ## Mailing List
-[tess@eilxir-europe.org](https://lists.elixir-europe.org/mailman/listinfo/tess_elixir-europe.org)
+[tess@elixir-europe.org](https://lists.elixir-europe.org/mailman/listinfo/tess_elixir-europe.org)
 
 ## Feature Requests / Suggestions
 Please bring any feature requests along to the weekly meeting for discussion.
