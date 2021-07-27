@@ -20,7 +20,7 @@ Email: <tess-support@googlegroups.com>
 **Meeting Minutes** <https://bit.ly/3lkqZ7o>
 
 ## Slack
-Request a Slack invite <http://bit.ly/3mQgFoK>
+Join us on the ELIXIR Workspace #tess_club <https://elixir-europe.slack.com/archives/C0262CVJSC9>
 
 ## Mailing List
 [tess@elixir-europe.org](https://lists.elixir-europe.org/mailman/listinfo/tess_elixir-europe.org)
