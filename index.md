@@ -31,15 +31,15 @@ Please bring any feature requests along to the weekly meeting for discussion.
 # Project Resources
 ### Live Site
 <https://tess.elixir-europe.org>
-### Test Site
-<https://test-tess.its.manchester.ac.uk/>
-
+<!-- ### Test Site
+<https://test-tess.its.manchester.ac.uk/> -->
+<!-- 
 *Old Test Site:
-<https://tess.oerc.ox.ac.uk>*
+<https://tess.oerc.ox.ac.uk>* -->
 
 ### TeSS GitHub
 <https://github.com/ElixirTeSS/TeSS>
-### TeSS Scrappers GitHub
+### TeSS Scrapers GitHub
 <https://github.com/ElixirTeSS/TeSS_scrapers>
 ### TeSS Widgets GitHub
 <https://github.com/ElixirTeSS/TeSS_widgets>
@@ -61,13 +61,13 @@ Please bring any feature requests along to the weekly meeting for discussion.
 <https://docs.google.com/document/d/1i_cJVMGvLzTSmBPFq79BlyVerUs4aTvi_ZIcCgbxd7c>
 ### TeSS Strategy Meeting Minutes
 <https://docs.google.com/document/d/1YrgiydTIVCTArpx_9N_t57Kv-z4_t9gDZk7inKq9FkI>
-### TeSS Scrapper Status
+### TeSS Scraper Status
 <https://docs.google.com/spreadsheets/d186-kwQx1vcF901vtLgQeSOr9hVbaTQmhivQ6fT3gEHI>
 ### UX Report
 <https://www.dropbox.com/s/3uqnrhgdaa6nqjt/nancy_report_V6.pdf?dl=0>
 
 # External Resources
-## Bioscemas
+## Bioschemas
 ### Bioschemas Website
 <https://bioschemas.org/>
 ### Bioschemas Generator
